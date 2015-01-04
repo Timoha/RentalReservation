@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+venv/
+db_settings.py
+db_scheme.sql
